@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T01:13:08 IST" name="Default suite" finished-at="2022-12-15T01:13:22 IST" duration-ms="13549">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T01:13:08 IST" name="Default test" finished-at="2022-12-15T01:13:22 IST" duration-ms="13549">
+      <class name="test_scenarios.TestMethods">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:test_scenarios.TestMethods@2a65fe7c]" started-at="2022-12-15T01:13:08 IST" name="beforetest" finished-at="2022-12-15T01:13:11 IST" duration-ms="2516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="VerifyLogin()[pri:1, instance:test_scenarios.TestMethods@2a65fe7c]" started-at="2022-12-15T01:13:11 IST" name="VerifyLogin" finished-at="2022-12-15T01:13:16 IST" duration-ms="5244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method signature="VerifyProductPrice()[pri:2, instance:test_scenarios.TestMethods@2a65fe7c]" started-at="2022-12-15T01:13:16 IST" name="VerifyProductPrice" finished-at="2022-12-15T01:13:21 IST" duration-ms="5195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProductPrice -->
+        <test-method signature="VerifyAbiltyOfProductAdd()[pri:3, instance:test_scenarios.TestMethods@2a65fe7c]" started-at="2022-12-15T01:13:21 IST" name="VerifyAbiltyOfProductAdd" finished-at="2022-12-15T01:13:22 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAbiltyOfProductAdd -->
+        <test-method signature="VerifySelectedItemsInCart()[pri:4, instance:test_scenarios.TestMethods@2a65fe7c]" started-at="2022-12-15T01:13:22 IST" name="VerifySelectedItemsInCart" finished-at="2022-12-15T01:13:22 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySelectedItemsInCart -->
+        <test-method signature="verifyRandomNamesandZipCode()[pri:5, instance:test_scenarios.TestMethods@2a65fe7c]" started-at="2022-12-15T01:13:22 IST" name="verifyRandomNamesandZipCode" finished-at="2022-12-15T01:13:22 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRandomNamesandZipCode -->
+        <test-method signature="verifyOrderCompletion()[pri:6, instance:test_scenarios.TestMethods@2a65fe7c]" started-at="2022-12-15T01:13:22 IST" name="verifyOrderCompletion" finished-at="2022-12-15T01:13:22 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderCompletion -->
+      </class> <!-- test_scenarios.TestMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
